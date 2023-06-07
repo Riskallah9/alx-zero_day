@@ -1,2 +1,2 @@
 my first readme
-i just edited my readme fil
+i just edited my readme file
